@@ -1,0 +1,177 @@
+.menu-container {
+  background-color: #1F2937;
+  padding: 150px;  
+  padding-top: 5px;
+  padding-bottom: 50px;
+  display: flex;
+  height: 350px;
+  margin: -10px;
+  padding-bottom: 125px;
+  margin-top: 10px;
+}
+
+.logo {
+  color: #F9FAF8;
+  font-size: 24px;
+  margin: 0px;
+  width: 400px;
+}
+
+.logo h3 {
+  margin: 0px;
+}
+
+.links {
+  color: #E5E7EB;
+  display: flex;
+  gap: 8px;
+  font-size: 18px;
+}
+
+* {
+  font-family: 'roboto';
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+  width: 1600px;
+  gap: 80px;
+  margin-top: 15px;
+}
+
+.logo h3 {
+  margin: 0px;
+  margin-bottom: 88px;
+}
+
+h1,p {
+  margin: 0;
+}
+
+p {
+  font-size: 18px;
+  color: #E5E7EB
+}
+
+
+.button {
+  background-color: #3882f6;
+  color: white;
+  border-radius: 7px; 
+  height: 30px;
+  width: 110px;
+  border: none;
+  margin-top: 10px;
+}
+
+.place-holder {
+  display: flex;
+  height: 210px;
+  justify-content: center;
+  align-content: center;
+  flex-wrap: wrap;
+  background-color: grey;
+  color: white;
+  border-radius: 1px;
+}
+
+.right {
+  width: 900px;
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+}
+
+.links {
+  color: #E5E7EB;
+  display: flex;
+  gap: 8px;
+  font-size: 18px;
+  justify-content: flex-end;
+  margin-bottom: 98px;
+}
+
+.top-mid-con {
+  margin: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.mid-con {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 110px;
+}
+
+.repeat {
+  border: 3px solid #3882f6;
+  width: 150px; 
+  height: 150px;
+  border-radius: 12px;
+  margin-top: 10px;
+}
+
+.top-bottom {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.one {
+  display: flex;
+  justify-content: center;
+  color: white;
+  flex-direction: column;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  width: 175px;
+}
+
+.one p {
+  text-align: center;
+  font-size: 18px;
+  color: darkslategray;
+  margin-top: 10px;
+}
+
+* {
+  font-family: sans-serif;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;  
+  background-color: #E5E7EB;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 230px;
+  padding-right: 230px;
+  flex-direction: column;
+  margin: -10px;
+  align-items: flex-end;
+}
+
+.foot-par h3 {
+  margin-top: -5px;
+  color: #1f2937;
+}
+
+.foot-par {
+  color: #1f2937;
+  display: flex;  
+  font-size: 36px;
+  font-style: italic;
+}
+
+.sig {
+  margin-top: -5px;
+  color: #1f2937;
+}
+
+.inform h1 {
+  color: #1f2937
+}
